@@ -37,8 +37,8 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['+17202043620','+17202043620']
-global.premium = ['+17202043620','+17202043620']
+global.owner = ['+2349021498848','+2349021498848']
+global.premium = ['+2349021498848','+2349021498848']
 global.botname = 'BOT OF THE UCHIHA'
 global.ownername = '👻•••𝐓 𝐎 𝐁 𝐈'
 global.group1 = 'https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A'
